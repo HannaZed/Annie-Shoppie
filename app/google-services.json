@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932727551388",
+    "firebase_url": "https://my-storage-app-cc8e5.firebaseio.com",
+    "project_id": "my-storage-app-cc8e5",
+    "storage_bucket": "my-storage-app-cc8e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932727551388:android:726990154183c6cc920459",
+        "android_client_info": {
+          "package_name": "com.king.mystorageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932727551388-ne9jiljnqibfq2219cq92e3n540846uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIV5AgH1w9iKyfli0GWoRiwnFqGYHBcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932727551388-ne9jiljnqibfq2219cq92e3n540846uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
